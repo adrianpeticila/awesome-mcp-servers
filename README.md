@@ -3369,6 +3369,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [adrianpeticila/grai](https://github.com/adrianpeticila/grai) [![adrianpeticila/grai MCP server](https://glama.ai/mcp/servers/adrianpeticila/grai/badges/score.svg)](https://glama.ai/mcp/servers/adrianpeticila/grai) 🐍 🏠 🍎 🪟 🐧 - Deterministic cadence gate and cryptographic verification seals for LLM-generated drafts.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
